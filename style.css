@@ -3,7 +3,8 @@
     background-image: url("asset/bg-image-hero.png");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh; /*100% de la hauteur de l'écran*/
+    height: 100vh;
+    /*100% de la hauteur de l'écran*/
 }
 
 .bg-section3 {
@@ -11,4 +12,23 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.white{color: white;}
+
+.white {
+    color: white;
+}
+
+.button {
+    color: white;
+    background-color: #353434;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 4px;
+    padding-top: 7px;
+    padding-right: 20px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    gap: 57px;
+    opacity: 1;
+}
+/*a{text-decoration: none;}
